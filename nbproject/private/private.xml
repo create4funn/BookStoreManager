@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/BookStoreManagement/src/view/ThemTaiKhoan.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/BookStoreManagement/src/view/TaiKhoanForm.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/BookStoreManagement/src/model/NhaXuatBan.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/BookStoreManagement/src/connect/JDBCUtil.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/BookStoreManagement/src/view/SuaHoaDon.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/BookStoreManagement/src/view/ThemSach.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/BookStoreManagement/src/view/SachForm.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/BookStoreManagement/src/controller/ChiTietHoaDonDAO.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/BookStoreManagement/src/controller/TaiKhoanDAO.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/BookStoreManagement/src/view/ThongKeForm.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/BookStoreManagement/src/view/SuaSach.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/BookStoreManagement/src/view/HoaDonForm.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/BookStoreManagement/src/view/TaoHoaDon.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/BookStoreManagement/src/model/ChiTietHoaDon.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/BookStoreManagement/src/view/SuaTaiKhoan.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/BookStoreManagement/src/view/Menu.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/BookStoreManagement/src/view/KhoForm.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/BookStoreManagement/src/controller/SachDAO.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/BookStoreManagement/src/model/HoaDon.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/BookStoreManagement/src/view/formLogin.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/BookStoreManagement/src/model/TaiKhoan.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/BookStoreManagement/src/controller/NhaXuatBanDAO.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/BookStoreManagement/src/controller/HoaDonDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
